@@ -8,3 +8,9 @@ class File extends SymfonyFile
 {
     use FileHelpers;
 }
+
+adgfasdfas
+asdfasdf
+asdfasdfasdf
+asdgasdg
+
